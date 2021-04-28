@@ -1,0 +1,10 @@
+{
+  "css": {
+    "indent_size": 2
+  },
+  "js": {
+    "indent_size": 0,
+    "preserve_newlines": false,
+    "eol": ""
+  }
+}
