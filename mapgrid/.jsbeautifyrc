@@ -3,8 +3,8 @@
     "indent_size": 2
   },
   "js": {
-    "indent_size": 0,
-    "preserve_newlines": false,
-    "eol": ""
+    "indent_size": 2,
+    "eol": "\n",
+    "preserve_newlines": false
   }
 }
